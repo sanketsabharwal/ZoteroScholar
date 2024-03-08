@@ -13,11 +13,22 @@ Enhance your research workflow with ZoteroScholar, a tool that integrates the po
 
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 
-- Python 3.6 or newer
+- Python 3.10 or newer
 - Pip package manager
-- Zotero account with User ID and API Key
+- Zotero account. You will need your Zotero User ID and API Key to sync documents:
+    - **Finding your Zotero User ID**: 
+        - Log into the Zotero web interface.
+        - Click on your username at the top right corner to access your profile.
+        - Your User ID is part of the URL of your profile page. It's a numerical identifier.
+    - **Generating an API Key**:
+        - While logged into the Zotero website, navigate to the [Settings](https://www.zotero.org/settings) page.
+        - Click on the 'Feeds/API' tab.
+        - Under 'Personal API Keys', click on 'Create new private key'.
+        - Give your key a name, select the permissions you wish to grant (for syncing documents, 'Read/Write' access is usually necessary), and save.
+        - Zotero will then generate an API Key for you. Make sure to copy and save this key securely, as it won't be shown again.
+
 
 ### Installation
 
