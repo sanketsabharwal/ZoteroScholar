@@ -2,6 +2,9 @@
 
 Enhance your research workflow with ZoteroScholar, a tool that integrates the powerful Zotero document management system with the natural language processing capabilities of Ollama. Perfect for academics, researchers, and anyone looking to efficiently search through their collection of research-related documents.
 
+
+![ZoteroScholar Tool Screenshot](docs/image.png)
+
 ## Features
 
 - **Easy Setup**: Simple setup process, requiring only your Zotero User ID and API Key.
